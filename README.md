@@ -39,7 +39,7 @@ Reading 10,000 reviews by hand would take a full work-week. Hiring a team is not
 
 | Phase | Time | Format |
 |---|---|---|
-| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://flexfengfeng.github.io/dsai-m3-l01-learner/) |
+| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://su-ntu-ctp.github.io/6m-data-3.1-Introduction-to-Machine-Learning/) |
 | Hands-on code-alongs | ~90 min | Three notebooks (~25–30 min each) — Core sections only |
 | (Self-study after class) | self-paced | Each notebook has a 🟡 Extension section for going deeper |
 
