@@ -107,6 +107,7 @@ This is a 3-hour class, so we focus on the 2–3 topics that are most used in re
 **🟡 Optional (self-study, not assessed):**
 
 - Polynomial features, KNN deep-dive, a minimal neural network from scratch, and deeper train/test split theory live in [`notebooks/optional_extensions.ipynb`](./notebooks/optional_extensions.ipynb). These are for curious learners only — skipping them will not affect your understanding of later lessons.
+- Want to go further on KNN and neural nets? [`notebooks/05_knn_and_mini_nn.ipynb`](./notebooks/05_knn_and_mini_nn.ipynb) builds **both from scratch in NumPy** — a KNN validated against scikit-learn (with a feature-scaling demo), and a mini neural network that learns **XOR** via hand-written backpropagation. Includes worked solutions to its exercises.
 
 This lesson is **L01 of 10** in the DSAI M3 Machine Learning & GenAI course. Later lessons build on what you do here.
 
@@ -132,4 +133,5 @@ notebooks/
   04_ml_workflow.ipynb       ← The full ML workflow (in class)
   assignment.ipynb           ← Lakeside Bank secondment (after class)
   optional_extensions.ipynb  ← 🟡 Optional self-study: polynomial features, KNN, mini-NN, train/test theory
+  05_knn_and_mini_nn.ipynb   ← 🟡 Optional deep-dive: KNN + mini neural net from scratch in NumPy (XOR, backprop)
 ```
