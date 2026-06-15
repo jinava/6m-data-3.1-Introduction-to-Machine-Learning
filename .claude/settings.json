@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python3 -c ' *)",
-      "Bash(python3 _add_note.py)",
-      "Bash(/home/jinava/miniconda3/envs/dsai-m3/bin/python -c \"import nbformat; nb=nbformat.read\\('03_three_categories.ipynb',4\\); nbformat.validate\\(nb\\); print\\('VALID, cells:',len\\(nb.cells\\)\\)\")"
-    ]
-  }
-}
